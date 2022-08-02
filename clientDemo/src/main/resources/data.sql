@@ -1,0 +1,1 @@
+insert into clients(fullname,email) values('ayoub','ayoub@gmail.com'),('ahmed','ahmed@gmail.com'),('youssef','youssef@gmail.com')
